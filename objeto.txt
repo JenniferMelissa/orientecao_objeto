@@ -1,0 +1,16 @@
+Pyhton é uma linguagem multiparadigma (pode programar de diversar formas diferentes em pyhton)
+
+Formas de programar em python(3 formas):
+
+-Linguagem estruturada -conjunto de instrucoes sendo executadas de cima pra baixo, usa funcoes, receita de bolo
+
+-Programacao orientada a eventos (nao aprendemos ainda)
+
+-POO(programacao orientada a objeto) - Classificar tudo que a gente ve
+Deixar nosso programa com a logica mais perto do mundo real, forma de pensar do mundo real(pensa como se estivesse em um mundo a parte), no mundo real as cpoisas sao classificadas
+
+objetos diferentes mas compartilham caracteristicas fisicas e compartilham mesma funcao 
+
+Criamos classe e nela programamos atributos e metodos e a partir delas a gente instancia os objetos
+-facilita  manutencao do codigo
+--facil  correcao de problemas (Apesar do codigo ser maior do que a linguagem estruturada(verificaria linha por linha) conseguimos identificar e corrigir os problemas, so ir na classe e corrigir o erro)
